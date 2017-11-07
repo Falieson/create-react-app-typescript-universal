@@ -1,0 +1,11 @@
+.app_frame {
+  background-color: #353535;
+  color: #fff;
+  height: 100%;  
+  position: fixed;
+  width: 100%;  
+}
+
+.app_content {
+  height: 100%;  
+}

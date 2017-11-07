@@ -1,0 +1,7 @@
+{
+  "eslint.enable": false,
+  "files.exclude": {
+    "**/coverage" : true,
+    "**/.DS_Store": true
+  }
+}
